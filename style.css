@@ -1,0 +1,47 @@
+body{
+    background: rgb(157, 247, 249);
+}
+.heading{
+    color:rgb(37, 36, 36);
+    text-align:center;
+    font-size: 4rem;
+    background-color:aqua;
+}
+button{
+    height:70px;
+    width:120px;
+    border-radius: 20px;
+    margin-bottom: 4px;
+    border:3px solid black;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+.display{
+    height:60px;
+    width:490px;
+    text-align:right;
+    border:3px solid black;
+    border-radius: 10px;
+    margin-bottom: 4px;
+    background-color: rgb(227, 227, 227);
+ 
+}
+.layout{
+    justify-content: center;
+    justify-items: center;
+    text-align:center;
+    margin-top: 100px;
+    
+}
+.c{
+    background-color: rgb(247, 193, 55);
+}
+
+.a{
+    background-color: rgb(175, 174, 174);
+}
+.a:hover{
+    opacity:0.8;
+}
+.c:hover{
+    opacity:0.8;
+}
